@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 CSE student | Web3 & Blockchain enthusiast<br>Building dApps, learning smart contracts, and exploring decentralized tech.<br>
 
 
